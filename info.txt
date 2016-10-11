@@ -1,2 +1,1 @@
-primo
-secondo
+temperatura e interruttore
